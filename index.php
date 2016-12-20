@@ -20,7 +20,11 @@
         </div>
         <!--Décollage fusée de l'écran-->
         <div class="slides  green col-md-12">
+<<<<<<< HEAD
             <?php include_once 'img/decollage.php'?> test
+=======
+            <?php include_once 'img/decollage.php'?>
+>>>>>>> refs/remotes/origin/master
         </div>
         <!--Fusée dans l'espace-->
         <div class="slides bordeaux col-md-12">
