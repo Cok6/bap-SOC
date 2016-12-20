@@ -46,6 +46,7 @@
 
 <script src="js/main.js"></script>
 <script src="js/intro.js"></script>
+<script src="js/decollagefusee.js"></script>
 
 </body>
 </html>
