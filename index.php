@@ -20,11 +20,7 @@
         </div>
         <!--Décollage fusée de l'écran-->
         <div class="slides  green col-md-12">
-<<<<<<< HEAD
-            <?php include_once 'img/decollage.php'?> test
-=======
             <?php include_once 'img/decollage.php'?>
->>>>>>> refs/remotes/origin/master
         </div>
         <!--Fusée dans l'espace-->
         <div class="slides bordeaux col-md-12">
@@ -50,6 +46,7 @@
 
 <script src="js/main.js"></script>
 <script src="js/intro.js"></script>
+<script src="js/decollagefusee.js"></script>
 
 </body>
 </html>
